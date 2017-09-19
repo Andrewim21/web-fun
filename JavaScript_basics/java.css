@@ -1,0 +1,40 @@
+#container{
+    width: 750px;
+    height: 525px;
+    background-color: blue;
+    padding: 10px;
+}
+.Home{
+    width:250px;
+    height:200px;
+    background-color: teal;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    vertical-align: top;
+}
+#Header{
+    width: 725px;
+    height: 50px;
+    background-color: red;
+    border-radius: 10px;
+    margin: auto; 
+}
+#Info{
+    width: 450px;
+    height: 400px;
+    background-color: navy;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    vertical-align: top;
+
+}
+#Footer{
+    width: 725px;
+    height: 25px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: auto;
+    vertical-align: top;
+}
