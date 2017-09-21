@@ -1,0 +1,136 @@
+.container{
+  background-color: #664949;   
+  width: 900px;
+  height: 969px;
+  }
+.header{
+  background-color: white;
+  height: 60px;
+}
+name{
+  font-family: 'arial black', Gadget, sans-serif;
+  font-size: 30px;
+
+}
+motto{
+  font-family: 'arial black', Gadget, sans-serif;
+  font-size: 20px;
+  float: right;
+}
+#girl{
+  height: 250px;
+  width: 400px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #A59F9F;
+  display: inline-block;
+  margin: 15px;
+} 
+.bio h1{
+  color: white;
+  background-color: #A59F9F;
+  font-size: 30px;
+  margin: 0px;
+}
+.bio{
+  height: 260px;
+  width: 410px;
+  vertical-align: top;
+  background-color: white;
+  display: inline-block;
+  margin: 15px;
+}
+.container .lamode{
+  background-color: white;
+  width: 262px;
+  height: 500px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 15px;
+}
+.container .lamode h1{
+  background-color: #A59F9F;
+  color: white;
+  font-size: 20px;
+  margin: 0px;
+  
+}
+#home{
+  width: 250px;
+  height: 200px;
+}
+.container .lamode h2{
+  background-color: #A59F9F;
+  color: white;
+  font-size: 30px;
+}
+.container img{
+  width: 40px;
+  height: 40px;
+}
+.container .family{
+  background-color: white;
+  width: 262px;
+  height: 500px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 15px;
+}
+.container .family h1{
+  background-color: #A59F9F;
+  color: white;
+  font-size: 20px;
+  height: 40px;
+  margin: 0px;
+}
+#fam{
+  width: 250px;
+  height: 200px;
+}
+.container .family h2{
+  background-color: #A59F9F;
+  color: white;
+  font-size: 20px;
+  height: 30px;
+}
+.container .fiveeleven{
+  background-color: white;
+  width: 262px;
+  height: 500px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 15px;
+}
+.container .fiveeleven h1{
+  background-color: #A59F9F;
+  color: white;
+  font-size: 20px;
+  margin: 0px;
+  height: 40px;
+}
+.container .fiveeleven h2{
+  background-color: #A59F9F;
+  color: white;
+  font-size: 20px;
+  height: 30px;
+}
+#five{
+  width: 250px;
+  height: 200px;
+}
+.container .footer{
+  background-color: white;
+  height: 75px;
+  margin-top: 10px;
+  
+}
+.container .footer #foot{
+  height: 25px;
+  width: 25px;
+}
+button{
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  height: 30px;  
+}
