@@ -1,0 +1,144 @@
+.container {
+    background-color: white;
+    width:1000px;
+    height: 1000px;
+}
+
+.globe {
+    width: 100px;
+    margin-bottom: -26px;
+
+}
+.container h1{
+    font-family: 'arial black', Gadget, sans-serif;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+.WWW{
+    color: #22659e;
+}
+
+.container h2{
+    background-color: #4b7fa9;
+    color: #f2f6f9;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 1000px;
+    padding: 15px;
+}
+
+.sidebar {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+}
+
+.sidebar button{
+    width: 200px;
+    border-radius: 7px;
+    color: white;
+    height: 40px;
+    font-size: 15px;
+}
+
+.bluebutton {
+    background-color: #4f88b8;
+}
+
+.orangebutton{
+    background-color:#ee8300; 
+}
+
+.background{
+    width: 200px;
+}
+.ninja{
+    width: 50%;
+    vertical-align: middle;
+}
+
+.mainpage {
+    width: 700px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.topleftmain{
+    display: inline-block;
+    color:  #4f88b8;
+    margin: 0px;
+}
+.topleftmain p{
+    width: 30px;
+    font-size: 30px;
+    display: inline-block;
+    margin: 0px;
+}
+.house {
+    width: 35px;
+    margin-bottom: -5px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.toprightmain {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    margin-left: 420px;    
+}
+.information p{
+    display: block;
+    width: 130px;
+    font-size: 10px;
+}
+
+.information h3{
+    font-size: 20px;
+    color: blue;
+    margin-bottom: 0px; 
+    margin-top: 0px;
+}
+
+.phone {
+    width: 60px;
+    display: inline-block;
+    vertical-align: top;
+}
+.information{
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+}
+.bluebackground{
+    background-image: url("images/ad_background.png");
+    color: white;
+    text-align: center;
+    height: 320px;
+    font-size: 25px;
+}
+.bluebackground .learnmore{
+    background-color: #0F80C2;
+}
+.middle{
+
+}
+
+.server{
+    width: 40%;;
+    margin: auto;
+    display: block;
+}
+
+.bottommain{
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: blue;
+}
+
+.HTML{
+    width: 100px;
+}
