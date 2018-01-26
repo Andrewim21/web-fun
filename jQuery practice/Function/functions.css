@@ -1,0 +1,41 @@
+.container{
+    width: 1000px;
+}
+    .top, .middle, .bottom{
+        width: 465px;
+    }
+    h1{
+        text-align: center;
+        display: block;
+    }
+    button1, button2, button3, button4, button5, button6, button7, button8, button9, button10, button11, button14{
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 20px;
+    }
+    .top p{
+        display: inline-block;
+        vertical-align: top;
+        width: 325px;
+        margin-top: 2px;
+        margin-left: 30px;
+    }
+    .middle p{
+        display: inline-block;
+        vertical-align: top;
+        width: 325px;
+        margin-top: 2px;
+        margin-left: 30px;
+    }
+    .bottom p{
+        display: inline-block;
+        vertical-align: top;
+        width: 325px;
+        margin-top: 2px;
+        margin-left: 30px;
+    }
+    .beforeandafter{
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 20px;
+    }

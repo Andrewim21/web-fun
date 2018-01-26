@@ -1,0 +1,20 @@
+.container{
+    width: 500px;
+}
+.table{
+    border-width: 2px;
+    border-style: solid;
+    padding-left: 0px;
+    width: 500px;
+    display: inline-block;
+    margin-left: 0px;
+}
+.user{
+    width: 300px;
+}
+h1{
+    margin-bottom: 0px;
+}
+.form p{
+    display: inline-block;
+}
